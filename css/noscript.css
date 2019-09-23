@@ -1,0 +1,34 @@
+/*
+	Сайт компании СройДомСервис, Тверь.
+	    - Разработка оконных приложений C# 
+		- Разработка мобильных приложений 
+		- Разработка Web-Приложений 
+		- Unity3D 
+		- Разработка сайтов HTML,CSS.JS 
+		- Решение задач C#, C/C++,Python. Курсовые и лабораторные работы.
+
+		Заказать работу, а так же ознакомиться с обзором выполненных работ можно 
+		в нашей группе  ВК- https://vk.com/bigpapasugrob
+*/
+
+/* Wrapper */
+
+	#wrapper {
+		opacity: 1 !important;
+	}
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1 !important;
+	}
+
+/* Header */
+
+	#header {
+		opacity: 1 !important;
+	}
+
+		#header nav li {
+			opacity: 1 !important;
+		}
